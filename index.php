@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.racingandsports.com.au/en/");
+header("Location: https://www.usahockey.com/");
 die();
 ?>
